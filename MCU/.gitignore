@@ -1,0 +1,11 @@
+# Скомпільовані бінарні файли
+Debug/
+Release/
+build/
+
+# Локальні налаштування IDE
+.settings/
+
+# Папки інших IDE
+EWARM/
+MDK-ARM/
